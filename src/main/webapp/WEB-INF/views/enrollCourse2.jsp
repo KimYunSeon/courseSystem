@@ -15,7 +15,7 @@ h1{
 
 <h1>수강신청 성공</h1>  
 
-<h3><a href="${pageContext.request.contextPath}/creditInquiry1">메인화면으로 가기</a></h3>
+<h3><a href="${pageContext.request.contextPath}">메인화면으로 가기</a></h3>
 <h3><a href="${pageContext.request.contextPath}/courseInquiry">2017년1학기 조회 화면으로 가기</a></h3>   
 </body>
 </html>

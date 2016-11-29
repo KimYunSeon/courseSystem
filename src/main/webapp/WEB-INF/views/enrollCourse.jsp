@@ -43,7 +43,7 @@ th,td{
 			</tr>
 			<tr class="backcolor2">
 				<td>학점:</td>
-				<td><input path="credit" type="text" /></br>
+				<td><input name="credit" type="text" /></br>
 			</tr>
 			<tr class="backcolor2">
 				<td colspan="2"><input name="수강신청" value="수강신청" type="submit"></td>
@@ -51,7 +51,7 @@ th,td{
 		</table>
 	</springform:form>
 	
-	<h3><a href="${pageContext.request.contextPath}/creditInquiry1">메인화면으로 가기</a></h3>
+	<h3><a href="${pageContext.request.contextPath}">메인화면으로 가기</a></h3>
 
 </body>
 </html>

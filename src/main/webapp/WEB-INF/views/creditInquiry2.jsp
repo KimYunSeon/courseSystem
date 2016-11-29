@@ -11,7 +11,7 @@
 
 		<c:out value="${sum}"></c:out>
 		
-		<h3><a href="${pageContext.request.contextPath}/creditInquiry1">메인화면으로 가기</a></h3>
+		<h3><a href="${pageContext.request.contextPath}">메인화면으로 가기</a></h3>
 
 </body>
 </html>
